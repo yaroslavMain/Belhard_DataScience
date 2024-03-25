@@ -1,9 +1,9 @@
 # HW5
 
 
-## [**1. Изучение датасетов**](/HW5/README.md#part-1)
-## [**2. Тренировка на базовом датасете**]()
-## [**3. Тренировка на кастомном датасете**]()
+## [**1. Изучение датасетов**](/HW5/README.md#часть-1)
+## [**2. Тренировка на базовом датасете**](/HW5/README.md#часть-2)
+## [**3. Тренировка на кастомном датасете**](/HW5/README.md#часть-3)
 
 ##
 
@@ -33,7 +33,7 @@ python3 train.py --data coco128.yaml --weights yolov5s.pt --img 640
 
 ### Результат
 
-![](/HW5/yolov5/runs/train/exp2/results.png) 
+![](/HW5/runs/train/exp/results.png) 
 
 ## Часть 3
 
@@ -53,5 +53,5 @@ python3 train.py --data coco128.yaml --weights yolov5s.pt --img 640
 ### Тестирование модели
 
 ![](/HW5/runs/detect/exp/1.jpg) 
-![](/HW5/yolov5/runs/detect/exp2/2.jpg) 
-![](/HW5/yolov5/runs/detect/exp3/3.jpg) 
+![](/HW5/runs/detect/exp2/2.jpg) 
+![](/HW5/runs/detect/exp3/3.jpg) 
