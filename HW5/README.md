@@ -48,10 +48,10 @@ python3 train.py --data coco128.yaml --weights yolov5s.pt --img 640
 
 ### Результат
 
-![](/HW5/yolov5/runs/train/exp2/results.png) 
+![](/HW5/runs/train/exp2/results.png) 
 
 ### Тестирование модели
 
-![](/HW5/yolov5/runs/detect/exp/1.jpg) 
+![](/HW5/runs/detect/exp/1.jpg) 
 ![](/HW5/yolov5/runs/detect/exp2/2.jpg) 
 ![](/HW5/yolov5/runs/detect/exp3/3.jpg) 
