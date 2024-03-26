@@ -41,12 +41,6 @@ python3 train.py --data coco128.yaml --weights yolov5s.pt --img 640
 ### Данные
 Для обучения была выбрана задача распознавания рыб.
 
-### Обучение
-```bash
-python3 train.py --data coco128.yaml --weights yolov5s.pt --img 640
-```
-Обучение длилось 5 минут на [сервере](http://lightning.ai/). 
-
 ### Результат
 
 ![](/HW5/runs/train/exp2/results.png) 
